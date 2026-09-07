@@ -1,23 +1,23 @@
 {
   "assets": {
     "linux-x86_64": {
-      "name": "figuras-mcp-0.6.3-linux-x86_64.tar.gz",
-      "sha256": "8fb78de3ffaf0a3a3cecf742804ebc0e4052309e084e47cf7f56e67e4dbb5e36",
-      "size_bytes": 119286,
-      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.6.3/figuras-mcp-0.6.3-linux-x86_64.tar.gz"
+      "name": "figuras-mcp-0.6.4-linux-x86_64.tar.gz",
+      "sha256": "406e552672947d090af8a34b160ce04177d443fc5810ef0d8e2ff0332c370d24",
+      "size_bytes": 119350,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.6.4/figuras-mcp-0.6.4-linux-x86_64.tar.gz"
     },
     "windows-x86_64": {
-      "name": "FigurasMCP-0.6.3-windows-x86_64.zip",
-      "sha256": "eddd5713db5e3e6b1dc06a52aa94765852243ef6f8f3e362cb466b539513f80a",
-      "size_bytes": 146058,
-      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.6.3/FigurasMCP-0.6.3-windows-x86_64.zip"
+      "name": "FigurasMCP-0.6.4-windows-x86_64.zip",
+      "sha256": "1868c4f7ff218b0d712b9f287ff2d44dbaaa095166a9c75ad273364ed942611b",
+      "size_bytes": 147808,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.6.4/FigurasMCP-0.6.4-windows-x86_64.zip"
     }
   },
   "channel": "stable",
-  "latest_version": "0.6.3",
+  "latest_version": "0.6.4",
   "product": "Figuras MCP",
-  "published_at": "2026-09-07T17:24:31Z",
-  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.6.3",
+  "published_at": "2026-09-07T18:57:50Z",
+  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.6.4",
   "schema_version": 1,
-  "summary": "Instaladores públicos para Windows y Linux con aviso de actualización en Blender."
+  "summary": "Windows detecta Python 3.12 o posterior y elige automáticamente la versión compatible más reciente."
 }
