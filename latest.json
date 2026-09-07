@@ -1,0 +1,23 @@
+{
+  "assets": {
+    "linux-x86_64": {
+      "name": "figuras-mcp-0.6.3-linux-x86_64.tar.gz",
+      "sha256": "8fb78de3ffaf0a3a3cecf742804ebc0e4052309e084e47cf7f56e67e4dbb5e36",
+      "size_bytes": 119286,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.6.3/figuras-mcp-0.6.3-linux-x86_64.tar.gz"
+    },
+    "windows-x86_64": {
+      "name": "FigurasMCP-0.6.3-windows-x86_64.zip",
+      "sha256": "eddd5713db5e3e6b1dc06a52aa94765852243ef6f8f3e362cb466b539513f80a",
+      "size_bytes": 146058,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.6.3/FigurasMCP-0.6.3-windows-x86_64.zip"
+    }
+  },
+  "channel": "stable",
+  "latest_version": "0.6.3",
+  "product": "Figuras MCP",
+  "published_at": "2026-09-07T17:24:31Z",
+  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.6.3",
+  "schema_version": 1,
+  "summary": "Instaladores públicos para Windows y Linux con aviso de actualización en Blender."
+}
