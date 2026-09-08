@@ -1,23 +1,23 @@
 {
   "assets": {
     "linux-x86_64": {
-      "name": "figuras-mcp-0.6.4-linux-x86_64.tar.gz",
-      "sha256": "406e552672947d090af8a34b160ce04177d443fc5810ef0d8e2ff0332c370d24",
-      "size_bytes": 119350,
-      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.6.4/figuras-mcp-0.6.4-linux-x86_64.tar.gz"
+      "name": "figuras-mcp-0.7.0-linux-x86_64.tar.gz",
+      "sha256": "7cf03afe6deebb6d2e7fbcf0310c495dd0efd8fe37f8a6c26a8c33cea526de0b",
+      "size_bytes": 122956,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.7.0/figuras-mcp-0.7.0-linux-x86_64.tar.gz"
     },
     "windows-x86_64": {
-      "name": "FigurasMCP-0.6.4-windows-x86_64.zip",
-      "sha256": "1868c4f7ff218b0d712b9f287ff2d44dbaaa095166a9c75ad273364ed942611b",
-      "size_bytes": 147808,
-      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.6.4/FigurasMCP-0.6.4-windows-x86_64.zip"
+      "name": "FigurasMCP-0.7.0-windows-x86_64.zip",
+      "sha256": "46c08b42e658ec08ed0cab85144c035c52da4133d8a6b2edf69d86d32e0c367c",
+      "size_bytes": 152026,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.7.0/FigurasMCP-0.7.0-windows-x86_64.zip"
     }
   },
   "channel": "stable",
-  "latest_version": "0.6.4",
+  "latest_version": "0.7.0",
   "product": "Figuras MCP",
-  "published_at": "2026-09-07T18:57:50Z",
-  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.6.4",
+  "published_at": "2026-09-08T23:33:53Z",
+  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.7.0",
   "schema_version": 1,
-  "summary": "Windows detecta Python 3.12 o posterior y elige automáticamente la versión compatible más reciente."
+  "summary": "Modo rápido: tres herramientas MCP, lotes de acciones y menor latencia con Blender."
 }
