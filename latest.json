@@ -16,7 +16,7 @@
   "channel": "stable",
   "latest_version": "0.9.2",
   "product": "Figuras MCP",
-  "published_at": "2026-09-22T22:53:54Z",
+  "published_at": "2026-09-22T22:56:02Z",
   "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.9.2",
   "schema_version": 1,
   "summary": "Conexión rápida con Codex, revisión compacta, Geometry Nodes y 109 acciones; intercambio PiezaLab con IDs, hashes, vista de despiece y cupones."
