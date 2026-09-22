@@ -1,23 +1,23 @@
 {
   "assets": {
     "linux-x86_64": {
-      "name": "figuras-mcp-0.9.2-linux-x86_64.tar.gz",
-      "sha256": "1d3cee3f785dc5089dceacc4fdc1fbe863e213a952fcc5da34bec6b1ca5b05f6",
-      "size_bytes": 181250,
-      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.9.2/figuras-mcp-0.9.2-linux-x86_64.tar.gz"
+      "name": "figuras-mcp-0.9.3-linux-x86_64.tar.gz",
+      "sha256": "80568aec957dbbfc1042b9ccd85863235089eead2392e2ded123672c452e2a43",
+      "size_bytes": 185565,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.9.3/figuras-mcp-0.9.3-linux-x86_64.tar.gz"
     },
     "windows-x86_64": {
-      "name": "FigurasMCP-0.9.2-windows-x86_64.zip",
-      "sha256": "9a213f3cb45bc41faccd1f583ef39a80c63df524857ea28ea3d84af966417db4",
-      "size_bytes": 217948,
-      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.9.2/FigurasMCP-0.9.2-windows-x86_64.zip"
+      "name": "FigurasMCP-0.9.3-windows-x86_64.zip",
+      "sha256": "feeefd0382641f02db20d22484b1859d0cbbdfe718ed5e373ff92b551f687078",
+      "size_bytes": 222929,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.9.3/FigurasMCP-0.9.3-windows-x86_64.zip"
     }
   },
   "channel": "stable",
-  "latest_version": "0.9.2",
+  "latest_version": "0.9.3",
   "product": "Figuras MCP",
-  "published_at": "2026-09-22T22:56:02Z",
-  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.9.2",
+  "published_at": "2026-09-22T23:11:12Z",
+  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.9.3",
   "schema_version": 1,
-  "summary": "Conexión rápida con Codex, revisión compacta, Geometry Nodes y 109 acciones; intercambio PiezaLab con IDs, hashes, vista de despiece y cupones."
+  "summary": "Conexión rápida con Codex, revisión compacta, Geometry Nodes y 112 acciones; comparación persistente de laminados e intercambio PiezaLab con IDs, hashes, vista de despiece y cupones."
 }
