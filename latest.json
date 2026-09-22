@@ -1,23 +1,23 @@
 {
   "assets": {
     "linux-x86_64": {
-      "name": "figuras-mcp-0.9.1-linux-x86_64.tar.gz",
-      "sha256": "f3fbce2f7411cd245877fc6bb3c2696f5c0ca230c3b09d9dff7b6eac2b540f29",
-      "size_bytes": 173940,
-      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.9.1/figuras-mcp-0.9.1-linux-x86_64.tar.gz"
+      "name": "figuras-mcp-0.9.2-linux-x86_64.tar.gz",
+      "sha256": "1d3cee3f785dc5089dceacc4fdc1fbe863e213a952fcc5da34bec6b1ca5b05f6",
+      "size_bytes": 181250,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.9.2/figuras-mcp-0.9.2-linux-x86_64.tar.gz"
     },
     "windows-x86_64": {
-      "name": "FigurasMCP-0.9.1-windows-x86_64.zip",
-      "sha256": "7f5a8e43fca6e971f8f45ed42816b959db095455a28fc57a4e416b8ba77b0231",
-      "size_bytes": 207712,
-      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.9.1/FigurasMCP-0.9.1-windows-x86_64.zip"
+      "name": "FigurasMCP-0.9.2-windows-x86_64.zip",
+      "sha256": "9a213f3cb45bc41faccd1f583ef39a80c63df524857ea28ea3d84af966417db4",
+      "size_bytes": 217948,
+      "url": "https://github.com/javierveloso/figuras-mcp-releases/releases/download/v0.9.2/FigurasMCP-0.9.2-windows-x86_64.zip"
     }
   },
   "channel": "stable",
-  "latest_version": "0.9.1",
+  "latest_version": "0.9.2",
   "product": "Figuras MCP",
-  "published_at": "2026-09-22T21:05:50Z",
-  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.9.1",
+  "published_at": "2026-09-22T22:53:54Z",
+  "release_url": "https://github.com/javierveloso/figuras-mcp-releases/releases/tag/v0.9.2",
   "schema_version": 1,
-  "summary": "Conexión más rápida con Codex, estado de trabajos persistente y 105 acciones; intercambio PiezaLab con IDs, hashes, vista de despiece y cupones."
+  "summary": "Conexión rápida con Codex, revisión compacta, Geometry Nodes y 109 acciones; intercambio PiezaLab con IDs, hashes, vista de despiece y cupones."
 }
